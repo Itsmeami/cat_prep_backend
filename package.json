@@ -4,7 +4,7 @@
   "description": "CAT Mock Test Platform Backend",
   "main": "src/index.js",
   "scripts": {
-    "start": "node C:/Users/user/Desktop/Personal/Project/cat-prep-platform/cat-prep/frontend/src/index.js",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
